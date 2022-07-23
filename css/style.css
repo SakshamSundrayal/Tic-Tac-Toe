@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2&display=swap');
+
 :root {
     --primary: rgb(170, 0, 113);
     --grids: pink;
@@ -26,7 +29,7 @@ body {
 
 h1 {
     font-size: 80px;
-    font-family: 'Comic Sans MS', sans-serif;
+    font-family: 'Mochiy Pop P One', sans-serif;
     text-decoration: underline;
     color: var(--secondary);
     cursor: default;
@@ -200,7 +203,7 @@ svg {
     position: absolute;
     font-size: 30px;
     color: white;
-    font-family: consolas;
+    font-family: 'Baloo 2';
     top: 50px;
     margin: auto;
     background: linear-gradient(40deg, red, pink);
@@ -225,7 +228,7 @@ svg {
     position: absolute;
     font-size: 30px;
     color: black;
-    font-family: consolas;
+    font-family: 'Baloo 2';
     top: 331px;
     margin: auto;
     background: linear-gradient(pink, rgb(255, 238, 0));
